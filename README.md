@@ -1,6 +1,6 @@
 # java-coq-astmanip
 
-An experimental Coq Parser and Pretty Printer without Notation support. 
+An experimental Coq Parser and Pretty Printer without Notation support using the [ANTLR 4](https://www.antlr.org/index.html) Framework. 
 
 ## How to use?
 
